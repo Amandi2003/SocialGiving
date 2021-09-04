@@ -13,7 +13,7 @@
                 <p>The mission of social Giving is to provide a platform where thousands of individuals can come together as one, and by doing so help one and another to save lives and create a better future</p>
             </div>
             <div class = "missionandpurpose-col">
-                <h2>Purpose</h2>
+                <h2>Purpose of the website</h2>
                 <p>The purpose of Social Giving is to prove that any act of kindness, whether it may be small or big, can change an individual's life overnight and give life to a better world with a brighter future</p> 
             </div>
         </div>
